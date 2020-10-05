@@ -17,7 +17,6 @@ public class SumOfSeq {
         }
 
         System.out.println("Formula Sum: " + sum);
-        System.out.println("Loop Sum: " + loop);
-
+        System.out.println("Loop Sum: " +   loop);
     }
 }
