@@ -1,6 +1,7 @@
 public class PayrollTester{
     public static void main(String[] args) {
         Employee firstEmployee = new Employee();
+        
 
         firstEmployee.setName("Michael");
         firstEmployee.setPosition("Cashier");

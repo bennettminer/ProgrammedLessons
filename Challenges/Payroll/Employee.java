@@ -16,8 +16,8 @@ public class Employee {
     public int totalHours = 0;
 
     //constructor
-    Employee(){
-
+    public Employee(){
+        
     }
 
     //methods
@@ -31,7 +31,7 @@ public class Employee {
 
     }
 
-    //get
+     = //get
 
     public String getName(){
         return this.name;
